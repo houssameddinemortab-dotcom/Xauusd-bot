@@ -28,7 +28,7 @@ from typing import Optional
 # ══════════════════════════════════════════════════════
 
 TELEGRAM_TOKEN     = "8646521885:AAEJIUSg1FG65hLr7NecLnp6r5unethPBNE"
-TELEGRAM_CHAT_ID   = "6492742479"
+TELEGRAM_CHAT_ID   = "6387333974"
 TWELVEDATA_API_KEY = "1a6449e9febd41c08736d0340aedc75a"
 
 SYMBOL             = "XAU/USD"
